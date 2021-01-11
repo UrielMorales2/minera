@@ -1,0 +1,57 @@
+[1004/173445.723:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1004/174445.740:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1004/174445.743:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1004/174945.847:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1004/192945.315:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1004/193945.326:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1004/193945.341:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1004/194445.334:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/092855.851:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1008/125145.952:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1008/130145.957:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1008/130145.957:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1008/130646.062:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1008/132146.115:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1009/231443.103:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/001350.022:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/002350.107:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/002350.241:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/002350.242:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/002350.242:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/002850.188:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/171020.211:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/172020.257:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/172020.319:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\aid_0\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\d765163b-c8ab-41ec-b2e7-fca428b4f743: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/172020.335:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\aid_0\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\eae26380-2c11-4bc8-97d9-152202ca96cf: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/172020.335:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/172020.335:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/172020.335:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/172520.400:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/174020.450:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/175521.235:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/180921.948:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/181922.276:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/181922.448:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/181922.511:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/181922.511:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/182421.992:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/183922.013:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/185422.074:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/190922.158:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/192422.241:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/194445.979:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/195446.266:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/195446.297:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\aid_0\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\3fa585b1-4fea-4c82-bb01-39ba51bc74b4: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/195446.328:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/195446.328:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/195446.344:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/195946.008:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/201446.280:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/223622.157:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/224622.244:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/224622.260:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/224622.292:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/224622.292:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/225122.308:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/230622.395:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1010/231037.601:ERROR:crash_report_database_win.cc(457)] unexpected header
